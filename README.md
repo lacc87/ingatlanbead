@@ -16,6 +16,11 @@ Az induláshoz a következőket szeretnék:
 
 Retrospektív
 
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 | Timeline | Went well | Could be improved |
 | --- | --- | --- |
 | * | * | Csapattag megtalálása |
