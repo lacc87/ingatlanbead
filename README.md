@@ -17,7 +17,7 @@ Az induláshoz a következőket szeretnék:
 Retrospektív
 
 | Timeline | Went well | Could be improved |
-| --- | --- | ---- |
+| --- | --- | --- |
 | * | * | Csapattag megtalálása |
 
 Rendszerterv
