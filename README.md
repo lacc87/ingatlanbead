@@ -23,3 +23,30 @@ Rendszer üzemeltetését szolgáltatásként képzeltük el, úgy, hogy ne rajt
  A heroku szolgáltatás része, a folyamatos szolgáltatás, szerver karbantartás, stb.
  Az adatokat a heroku által biztosított Postgres adatbázisban tároljuk, ennek mentéseit, karbantartását szintén a heroku végzi.
  
+A backend szerver csak az API szerver, aminek nem része a frontend.
+
+A szerverhez a következő endpointokon keresztül lehet komminukálni:
+
+Bejelentkezés:
+POST https://ingatlan-app.herokuapp.com/authenticate
+
+User adatok lekérdezése:
+GET https://ingatlan-app.herokuapp.com/user
+
+User adatok módosítása:
+PUT https://ingatlan-app.herokuapp.com/user
+
+Szöveges oldalak listázása:
+GET https://ingatlan-app.herokuapp.com/cms
+
+Szöveges oldalak tartalmi lekérdezése:
+GET https://ingatlan-app.herokuapp.com/cms/ID
+
+Szótárlekérdezés:
+GET https://ingatlan-app.herokuapp.com/dictionaries?lang=HU
+
+Menüpontok lekérdezése:
+GET https://ingatlan-app.herokuapp.com/menus
+
+Ingatlanok lekérdezése
+GET https://ingatlan-app.herokuapp.com/properties
