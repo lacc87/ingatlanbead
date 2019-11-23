@@ -50,3 +50,12 @@ GET https://ingatlan-app.herokuapp.com/menus
 
 Ingatlanok lekérdezése
 GET https://ingatlan-app.herokuapp.com/properties
+
+Ingatlanok létrehozása
+POST https://ingatlan-app.herokuapp.com/properties
+
+Ingatlanok módosítása
+PUT https://ingatlan-app.herokuapp.com/properties
+
+Városok lekérdezése:
+GET http://ingatlan-app.herokuapp.com/cities
