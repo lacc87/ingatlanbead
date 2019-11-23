@@ -14,6 +14,12 @@ Az induláshoz a következőket szeretnék:
 * Városonként lehessen szűrni az ingatlanokat
 * Gyors indulás
 
+Retrospektív
+
+| Timeline | Went well | Could be improved |
+| --- | --- | ---- |
+| * | * | Csapattag megtalálása |
+
 Rendszerterv
 
 A weboldal gyors fejlesztési igénye miatt a Ruby On Rails rendszer melett döntöttünk
