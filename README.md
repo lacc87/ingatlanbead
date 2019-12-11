@@ -19,7 +19,7 @@ Retrospektív
 | Retrospektív | Mészáros László | Guth Károly |
 | --- | --- | --- |
 | Timeline | * | * |
-| Went well | * | * |
+| Went well | * | Áttekinthető projekt, könnyen ment a becsatlakozás |
 | Could be impoved | Csapattag megtalálása | ráfordítható idő |
 
 Rendszerterv
