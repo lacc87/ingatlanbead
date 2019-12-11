@@ -16,11 +16,11 @@ Az induláshoz a következőket szeretnék:
 
 Retrospektív
 
-| Retrospektív | Mészáros László |
-| --- | --- |
-| Timeline | * |
-| Went well | * |
-| Could be impoved | Csapattag megtalálása |
+| Retrospektív | Mészáros László | Guth Károly |
+| --- | --- | --- |
+| Timeline | * | * |
+| Went well | * | * |
+| Could be impoved | Csapattag megtalálása | ráfordítható idő |
 
 Rendszerterv
 
