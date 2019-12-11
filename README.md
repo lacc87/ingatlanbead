@@ -31,6 +31,8 @@ Rendszer üzemeltetését szolgáltatásként képzeltük el, úgy, hogy ne rajt
  A heroku szolgáltatás része, a folyamatos szolgáltatás, szerver karbantartás, stb.
  Az adatokat a heroku által biztosított Postgres adatbázisban tároljuk, ennek mentéseit, karbantartását szintén a heroku végzi.
  
+ [A backend funkcionális specifikációja](https://github.com/lacc87/ingatlanbead/blob/master/Funkcion%C3%A1lis%20specifik%C3%A1ci%C3%B3%20backend.pdf)
+ 
 A backend szerver csak az API szerver, aminek nem része a frontend.
 
 A szerverhez a következő endpointokon keresztül lehet komminukálni:
